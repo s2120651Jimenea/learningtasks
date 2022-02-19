@@ -7,6 +7,6 @@
     <h1>Welcome to My Website! I am Jia Michelle Jimenea!</h1>
     <ul>
 		<li><a href="index.php"> HOME </a> </li>
-		<li><a href="recipes.html"> Learning Task 2 </a></li>
+		<li><a href="LT2/recipes.html"> Learning Task 2 </a></li>
     </body>
 </html>
