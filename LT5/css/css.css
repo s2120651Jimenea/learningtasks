@@ -1,0 +1,75 @@
+h1{
+	font-size: 90px;
+	color: peachpuff;
+	font-family: 'Dancing Script', cursive;
+	font-style: italic;
+	text-align: center;
+}
+h2{
+	font-size: 60px;
+	color: peachpuff;
+	font-family: 'Dancing Script', cursive;
+	font-style: italic;
+	text-align: center;
+}
+h3{
+	font-size: 70px;
+	color: palevioletred;
+	font-family: 'Dancing Script', cursive;
+	font-style: italic;
+	text-align: center;
+}
+h6{
+	font-size: 30px;
+	color: palevioletred;
+	font-family: 'Playfair Display', cursive;
+	font-style: italic;
+	text-align: center;
+}
+p{
+	font-size: 25px;
+	color: pink;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	margin-right: 150px;
+  	margin-left: 150px;
+ }
+body{
+	background: url(.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+ul{
+	margin: auto;
+	light-style-type: none;
+}
+ul li{
+	display: table-cell;
+}
+ul li a{
+	text-decoration: none;
+	color: lightpink;
+	padding: 10px 25px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: palevioletred;
+}
+ul li.active a{
+	background-color: #fff;
+	color: palevioletred;
+}
+.main{
+	max-width: 250px;
+	margin: auto;
+}
+.special{
+	font-size: 18px;
+}
+button{
+	display: table-cell;
+}
