@@ -6,3 +6,5 @@ function openfolder() {
       a.innerHTML = "&#xf115;";
     }, 1000);
 }
+openfolder();
+setInterval(openfolder, 2000);
